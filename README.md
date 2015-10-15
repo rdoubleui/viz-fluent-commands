@@ -1,5 +1,5 @@
 # viz-fluent-commands
-Small node module for building viz commands fluently (experimental)
+Small node module for building tcp commands for VizRT's scripting interface in Viz Engine fluently (experimental). 
 
 ##Considerations
 
