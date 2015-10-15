@@ -4,5 +4,5 @@ var viz = require("viz-fluent-commands");
 var cmd = viz.create();
 
 // add a layer defined in 'constants'
-cmd.setLayer(viz.const.MAIN_LAYER);
+cmd.setLayer(viz.const.MAIN_LAYER).setLayer(viz.const.FRONT_LAYER);
 console.log('Layer set: ' + cmd.layer);
