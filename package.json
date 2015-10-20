@@ -1,7 +1,7 @@
 {
   "name": "viz-fluet-commands",
-  "version": "1.0.0",
-  "description": "0.0.1",
+  "version": "0.0.1",
+  "description": "Small node module for building tcp commands for VizRT's scripting interface in Viz Engine fluently (experimental).",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
