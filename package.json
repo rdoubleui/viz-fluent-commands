@@ -1,5 +1,5 @@
 {
-  "name": "viz-fluet-commands",
+  "name": "viz-fluent-commands",
   "version": "0.0.1",
   "description": "Small node module for building tcp commands for VizRT's scripting interface in Viz Engine fluently (experimental).",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rdoubleui/viz-fluent-commands.git"
+    "url": "https://github.com/rdoubleui/viz-fluent-commands.git"
   },
   "author": "Rajko Winkler",
   "license": "ISC",
