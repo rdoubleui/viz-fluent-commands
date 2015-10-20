@@ -1,0 +1,21 @@
+{
+  "name": "viz-fluet-commands",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdoubleui/viz-fluent-commands.git"
+  },
+  "author": "Rajko Winkler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdoubleui/viz-fluent-commands/issues"
+  },
+  "homepage": "https://github.com/rdoubleui/viz-fluent-commands#readme"
+}
