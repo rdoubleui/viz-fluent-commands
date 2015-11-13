@@ -2,8 +2,7 @@
 Small node module for building tcp commands for VizRT's scripting interface in Viz Engine fluently (experimental). 
 
 ##Considerations
-
-Based on the [wiki article][] the approach for *fluent interfaces* in Javascript can be to use *prototype inheritance*, where basically an object method returns a reference to itself to allow for cascaded method calls.
+Based on the [wiki article][] the approach for *fluent interfaces* in JavaScript could be to use *prototype inheritance*. In general an object method returns a reference to itself to allow for cascaded method calls.
 
 ## Testing
 
@@ -26,7 +25,5 @@ Started setting up a test environment based on mocha. Used in Visual Studio Code
 }
 ```
 
-
 [wiki article]:https://en.wikipedia.org/wiki/Fluent_interface
 [setup in VS Code]:http://raathigesh.com/Debugging-Mocha-Tests-In-VsCode/
-
